@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Joseph</h1>
-<h3 align="center">I'm a full-stack developer with scrum experience. I enjoy building sites & apps. My focus is React (Next.js).</h3>
+<h1 align="center">Hello, I'm Joseph.</h1>
+<h3 align="center">I'm a full-stack developer with experience working on projects, and enjoy building sites & apps. My focus is NextJS with TypeScript.</h3>
 
 - 🔭 I’m currently working on [Hyper-Events](https://hyperevent-fe.vercel.app/)
 
