@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MaylandLabs](https://maylandlabs.com/)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👨‍💻 All of my projects are available at <a align="left" href='https://portfolio-pi-green-34.vercel.app/'>My Portfolio
 </a>
