@@ -1,14 +1,14 @@
 <h1 align="center">Hello, I'm Joseph.</h1>
 <h3 align="center">I'm a full-stack developer with experience working on projects, and enjoy building sites & apps. My focus is NextJS with TypeScript.</h3>
 
-- 🔭 I’m currently working on [Hyper-Events](https://hyperevent-fe.vercel.app/)
+- 🔭 I’m currently working on [MaylandLabs](https://maylandlabs.com/)
 
-- 🌱 I’m currently learning **TypeScript | Prisma | NestJS**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at <a align="left" href='https://portfolio-pi-green-34.vercel.app/'>My Portfolio
 </a>
 
-- 💬 Ask me about **NextJs | React**
+- 💬 Ask me about **NextJs v14**
 
 - 📫 How to reach me **jose_f_dirazar@hotmail.com**
 
