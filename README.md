@@ -5,10 +5,10 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at <a align="left" href='https://portfolio-pi-green-34.vercel.app/'>My Portfolio
+- 👨‍💻 All of my projects are available at <a align="left" href='https://josedirazar-portfolio.vercel.app/'>My Portfolio
 </a>
 
-- 💬 Ask me about **NextJs v14**
+- 💬 Ask me about **Next.js v14** **NestJS**
 
 - 📫 How to reach me **jose_f_dirazar@hotmail.com**
 
