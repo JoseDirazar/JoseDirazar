@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Joseph.</h1>
 <h3 align="center">I'm a full-stack developer, I enjoy building sites & apps. My focus is Next.js with TypeScript and Nest.js.</h3>
 
-- 🔭 I’m currently working on [MaylandLabs](https://maylandlabs.com/)
+- 🔭 I’m currently working on [Bigger](https://www.biggertech.co/)
 
 - 🌱 I’m currently learning **Rust**
 
