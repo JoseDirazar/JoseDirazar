@@ -1,16 +1,14 @@
 <h1 align="center">Hello, I'm Joseph.</h1>
 <h3 align="center">I'm a full-stack developer, I enjoy building sites & apps. My focus is Next.js with TypeScript and Nest.js.</h3>
 
-- 🔭 I’m currently working on [Bigger](https://www.biggertech.co/)
+- 🔭 I’m currently working as freelancer [ForgeBytesLab](https://forgebyteslab.com)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust** with **Bevy**
 
-- 👨‍💻 All of my projects are available at <a align="left" href='https://josedirazar-portfolio.vercel.app/'>My Portfolio
+- 👨‍💻 All of my projects are available at <a align="left" href='https://forgebyteslab.com/en/jose-dirazar/portfolio'>My Portfolio
 </a>
 
-- 💬 Ask me about **Next.js v14** **NestJS**
-
-- 📫 How to reach me **jose_f_dirazar@hotmail.com**
+- 📫 How to reach me **jfdirazar@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
